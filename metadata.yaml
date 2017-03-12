@@ -1,5 +1,8 @@
 _repo: The-Pickwick-Papers_580
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -23,6 +26,8 @@ description: "The Posthumous Papers of the Pickwick Club (also known as The Pick
   \ Dickens strenuously denied any specific input, writing that \"Mr Seymour never\
   \ originated or suggested an incident, a phrase, or a word, to be found in the book.\"\
   \n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/580#The-Pickwick-Papers
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1996-07-01'
 gutenberg_type: Text
